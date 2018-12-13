@@ -1,4 +1,4 @@
-# Machine Learninng Football Predictor EFL Championship
+# Machine Learning Football Predictor EFL Championship
 
 Author: João Nuno Carvalho
 
