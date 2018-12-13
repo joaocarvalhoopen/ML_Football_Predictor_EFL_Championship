@@ -6,7 +6,7 @@ Date: 2017
 
 License: MIT Open Source License
 
-Based on the code of Siraj Raval  [Predicting the Winning Team with Machine Learning] (https://www.youtube.com/watch?v=6tQhoUuQrOw)  , but severally reimplemented because the original had many design errors and was for a different league, it was for the Premier League.
+Based on the code of Siraj Raval  [Predicting the Winning Team with Machine Learning](https://www.youtube.com/watch?v=6tQhoUuQrOw) , but severally reimplemented because the original had many design errors and was for a different league, it was for the Premier League.
 
 ## Pre-requisites:
 
@@ -22,7 +22,7 @@ I have also developed a predictor for the English Premier League that is 10 to 2
 
 ## Last note:
 
-This predictor know way more about football then I do, and that is kind of nice!
+This predictor knows way more about football then I do, and that is kind of nice!
 
 I had lot’s of fun developing these two predictors, although I couldn’t ear any money with them,  I hope that you also have fun playing with this Machine Learning predictors, best regards.   
  
